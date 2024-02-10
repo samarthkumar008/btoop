@@ -1,0 +1,32 @@
+{
+  "name": "btoop",
+  "type": "library",
+  "description": "btoop is a simple yet http status codes and setup or use http code in you project or with discription.",
+  "keywords": [
+    "Http Code",
+    "http code",
+    "http response",
+    "HTTP LIBRARY",
+    "HTTP PACKAGE",
+    "http package",
+    "http library"
+    ],
+  "homepage": "https://github.com/kshatriya16/btoop/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "_Kshatriya_16",
+      "email": "akki.youto@gmail.com",
+      "homepage": "http://example.com",
+      "role": "Developer"
+    }
+    ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "btoop": "src"
+    }
+  }
+}
