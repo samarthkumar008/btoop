@@ -1,5 +1,5 @@
 {
-  "name": "btoop",
+  "name": "btoop/btoop",
   "type": "library",
   "description": "btoop is a simple yet http status codes and setup or use http code in you project or with discription & get headers.",
   "keywords": [
