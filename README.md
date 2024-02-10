@@ -7,6 +7,7 @@ btoop is a simple yet http status codes and setup or use http code in you projec
 
 To install btoop, run the command below and you will get the latest version
 ```sh
+composer require btoop/btoop
 ```
 
 ### Features
